@@ -1,16 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
-  }
-  
-  h1, h2 {
-    color: #333;
-  }
-  
-  ul {
-    padding: 0;
-  }
-  
-  li {
-    list-style: none;
-  }
-  
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.delete-button {
+  margin-left: 10px;
+}
